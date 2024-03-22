@@ -1,0 +1,53 @@
+User
+
+
+  body {
+    background-color: linen;
+    margin: 250;
+    padding: 100;
+  }
+  h1 {
+    color: maroon;
+    margin-left: 40px;
+  }
+
+
+img {
+    border: 2px solid #26e908; /* Add border */
+    border-radius: 8px; /* Rounded corners */
+}
+
+ul {
+    list-style-type: none;
+}
+
+body, h1, p, ul, ol, li, table, td, th {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    text-decoration: none;
+     
+}
+
+tr:nth-child(even) {
+    background-color: #c31212;
+}
+
+
+ body {
+    margin: 200;
+    padding: 100;
+    }
+
+p {
+    margin: 5;
+}
+
+
